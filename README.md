@@ -11,4 +11,3 @@ create a GUI with buttons for selections
 keep an overall score
 add an image of each selection
 add animation(with scratch?) to cross out the loser, and circle the winner
-      
