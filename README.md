@@ -7,7 +7,7 @@ Week 1 Mini-Project
 http://www.codeskulptor.org/#user45_DthEyPrvGEjwBih_2.py
 
 Branch "Interface"
-create a GUI with buttons for selections
-keep an overall score
-add an image of each selection
-add animation(with scratch?) to cross out the loser, and circle the winner
+Create a GUI with buttons for selections
+Keep an overall score
+Add an image of each selection
+Add animation(with scratch?) to cross out the loser, and circle the winner
